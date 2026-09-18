@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+.venv/
+venv/
+ENV/
+
+# AI/ML 模型和数据集
+*.pt
+*.pth
+*.ckpt
+*.onnx
+data/
+datasets/
+outputs/
+logs/
+
+# IDE 和系统文件
+.idea/
+.vscode/
+.DS_Store
