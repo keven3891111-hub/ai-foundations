@@ -7,7 +7,7 @@
 可练习：字典、列表、函数、类、dataclass、随机数、JSON 和文件读写。
 """
 
-import json
+import json_pra
 import os
 import random
 from dataclasses import asdict, dataclass, field

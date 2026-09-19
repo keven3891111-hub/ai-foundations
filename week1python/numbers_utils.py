@@ -73,9 +73,11 @@ def save_history(filename, text):
     with open(filename, "a", encoding="utf=8") as file:
         file.write(text + "\n")
 
-
-
-
+def find_first_positive(values):
+    for value in values:
+        if value > 0:
+            return value
+    return None
 
 
 

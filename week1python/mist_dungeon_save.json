@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "player": {
+    "name": "创始者",
+    "job": "2",
+    "max_hp": 133,
+    "hp": 133,
+    "max_mp": 60,
+    "mp": 60,
+    "base_atk": 20,
+    "base_def": 5,
+    "level": 3,
+    "xp": 7,
+    "gold": 206,
+    "points": 2,
+    "weapon": "old_weapon",
+    "armor": "old_armor",
+    "items": {
+      "potion": 2,
+      "ether": 2
+    },
+    "equipment": [
+      "old_weapon",
+      "old_armor"
+    ]
+  },
+  "stage": 1,
+  "room": 0,
+  "rescued": true,
+  "virtue": 1,
+  "ending": ""
+}
