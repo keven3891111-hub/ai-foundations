@@ -8,23 +8,14 @@
 
 \## 目标
 
-\- Python、PyTorch、机器学习、深度学习、计算机视觉复习与巩固
-
-\- 手搓 Transformer 与前沿模型复现
-
-\- 世界模型与 VLA（Vision-Language-Action）研究铺垫
+\- Python、PyTorch、机器学习、深度学习、计算机视觉学习
 
 
 
 \## 目录结构
 
-\- `week1\_python/`: Python 基础与 NumPy
+\- `week1\_python/`: Python 基础与
 
-\- `week2\_pytorch/`: PyTorch 训练循环与 CNN
-
-\- `week3\_transformer/`: 手搓 Transformer
-
-\- `vla\_world\_model/`: VLA 与世界模型论文笔记与复现
 
 
 
